@@ -6,60 +6,120 @@ I'm a Software Engineer interested in building practical software, exploring new
 
 My work spans **software engineering, web development, artificial intelligence, computer vision, cybersecurity, and digital design**.
 
+I have a broad and adaptable technical background rather than being limited to a single technology or programming language. I'm comfortable learning new tools, frameworks, languages, and technologies quickly when a project requires them.
+
 ---
 
 ## 🚀 What I Do
 
 - 💻 **Full-Stack Development** — Building web applications and software systems
 - 🤖 **AI & Computer Vision** — Developing and optimizing computer vision solutions
-- 🔐 **Cybersecurity** — Exploring application security, vulnerabilities, and secure development
-- ⚙️ **Software Engineering** — Designing practical and scalable applications
-- 🎨 **Motion & Visual Design** — Creating animated logos and visual content using Adobe Illustrator & After Effects
-- 🧪 **Research & Experimentation** — Exploring new technologies and performance optimization
+- 🔐 **Cybersecurity** — Exploring application security, vulnerability analysis, and secure development
+- ⚙️ **Software Engineering** — Designing practical and maintainable applications
+- 🎨 **Motion & Visual Design** — Creating animated logos, visual identities, and motion graphics
+- 🧪 **Research & Experimentation** — Exploring new technologies, architectures, and performance optimization
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills & Technologies
 
-### Programming & Development
+### 💻 Programming & Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,nodejs,mysql,git,github,linux&perline=11" />
 </p>
 
-### AI & Computer Vision
+**Languages & Technologies:**  
+Java • Python • PHP • JavaScript • HTML • CSS • SQL • Node.js
+
+---
+
+### 🤖 AI & Computer Vision
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow&perline=8" />
 </p>
 
-### Design & Creative Tools
+**Computer Vision & AI:**  
+YOLO • PyTorch • OpenCV • TensorFlow • NVIDIA TensorRT • Intel OpenVINO
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ae,ai&perline=8" />
-</p>
+Focused on **object detection, model optimization, inference acceleration, computer vision systems, and AI experimentation**.
+
+---
+
+### 🔐 Cybersecurity
+
+**Areas of Interest:**
+
+- Web Application Security
+- Vulnerability Analysis
+- SQL Injection
+- Security Testing
+- Secure Software Development
+- Application Protection
+
+---
+
+### 🎨 Creative & Motion Design
+
+**Tools:**
+
+- Adobe After Effects
+- Adobe Illustrator
+- DaVinci Resolve
+- Blender
+- EZCAD2
+
+Experience with **logo animation, motion graphics, visual design, video editing, 3D experimentation, and laser/engraving design workflows**.
+
+---
+
+## 🧠 Adaptability & Continuous Learning
+
+I don't limit myself to one programming language, framework, or technical field.
+
+My approach is to build a strong foundation in **software engineering and problem solving**, then quickly learn the technologies required to solve a specific problem.
+
+I'm comfortable exploring and learning:
+
+- New programming languages
+- New frameworks and libraries
+- New development environments
+- New AI and computer vision technologies
+- New software and creative tools
+- New engineering domains
+
+**Fast learner • Adaptable • Curious • Problem Solver**
+
+I'm always open to learning technologies outside my current stack and expanding into new areas of software engineering.
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🛒 Point of Sale System
+
 A desktop Point of Sale system developed using **Java**, focused on practical business management and transaction handling.
 
 ### 🌐 E-Commerce Platform
+
 A full-stack e-commerce platform built with **PHP, SQL, HTML, CSS, and JavaScript**, including database-driven functionality.
 
 ### 👁️ Computer Vision & AI
-Research and development focused on **object detection, model improvement, computer vision, and inference optimization**.
+
+Research and development focused on **object detection, model improvement, computer vision, and inference optimization using technologies such as YOLO, TensorRT, and OpenVINO**.
 
 ### 🚛 Truck Inspection System
+
 A digital truck inspection application built with **HTML, CSS, JavaScript, and Node.js**, designed to streamline vehicle inspection workflows.
 
 ### 🔐 Cybersecurity & Security Research
+
 Exploring **web application security, vulnerability analysis, SQL injection, secure development, and application protection**.
 
 ### 🎨 Animated Logo Design
-Designed and animated a visual identity using **Adobe Illustrator and Adobe After Effects**, combining vector design and motion graphics.
+
+Designed and animated a custom visual identity using **Adobe Illustrator and Adobe After Effects**, with additional work involving **DaVinci Resolve, Blender, and EZCAD2**.
 
 ---
 
@@ -76,21 +136,11 @@ Hashmawi Abdelkader High School
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=21Illusion&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21Illusion&hide_border=true" height="165" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
-I'm always interested in interesting projects, collaboration, technology, and new ideas.
+I'm interested in interesting projects, collaboration, technology, experimentation, and new ideas.
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a> •
-  <a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a> •
-  <a href="YOUR_BEHANCE_URL">🎨 Behance</a>
+  <a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a>
 </p>
