@@ -51,12 +51,14 @@ Focused on **object detection, model optimization, inference acceleration, compu
 
 **Areas of Interest:**
 
+- Information Security & Data Protection
+- Identity & Access Security
 - Web Application Security
-- Vulnerability Analysis
-- SQL Injection
-- Security Testing
+- Vulnerability Analysis & Security Testing
+- Authentication & Authorization
 - Secure Software Development
-- Application Protection
+- Privacy & Sensitive Data Protection
+- Application & System Security
 
 ---
 
