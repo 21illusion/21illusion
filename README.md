@@ -115,9 +115,7 @@ Research and development focused on **object detection, model improvement, compu
 
 A digital truck inspection application built with **HTML, CSS, JavaScript, and Node.js**, designed to streamline vehicle inspection workflows.
 
-### 🔐 Cybersecurity & Security Research
 
-Exploring **web application security, vulnerability analysis, SQL injection, secure development, and application protection**.
 
 ### 🎨 Animated Logo Design
 
