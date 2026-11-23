@@ -141,6 +141,6 @@ Hashmawi Abdelkader High School
 I'm interested in interesting projects, collaboration, technology, experimentation, and new ideas.
 
 <p align="center">
-  <a href="portfolio.hamdanidev.workers.dev">🌐 Portfolio</a> •
-  <a href="linkedin.com/in/hamdani-mohamed-amine-4a50792a7">💼 LinkedIn</a>
+  <a href="https://portfolio.hamdanidev.workers.dev">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/hamdani-mohamed-amine-4a50792a7">💼 LinkedIn</a>
 </p>
